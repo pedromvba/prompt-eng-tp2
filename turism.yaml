@@ -1,0 +1,12 @@
+roteiro:
+  atenas: >
+    Como um especialista em turismo, 
+    liste 3 pontos turísticos imperdíveis 
+    de Atenas, o número anual de visitantes, retornando apenas o número e 
+    forneça uma breve descrição para cada um.
+  roma: >
+    Como um especialista em turismo, 
+    liste 3 pontos turísticos 
+    imperdíveis de Roma, 
+    o número anual de visitantes e 
+    forneça uma breve descrição para cada um.
